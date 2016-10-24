@@ -8,4 +8,10 @@ $(document).ready(function(){
     window.location.href='https://xavilopez.github.io/Flyer2/';
   });
 
+  $(".options").on('mouseover', function(){
+    $(this).addClass('mouseover');
+  });
+  $(".options").on('mouseout', function(){
+    $(this).removeClass('mouseover');
+  });
 });

@@ -1,13 +1,29 @@
 body{
   background-color: #252D36;
 }
+
 #opt1{
-  padding-top: 10px;
-  border-bottom: 1px solid green;
+  /*padding-top: 10px;*/
 }
 #opt2{
-  padding-top: 15px;
-  padding-bottom: 30px;
+  /*padding-bottom: 30px;*/
+}
+.options{
+  margin-bottom: 0px;
 
-  height: 30px;
+
+}
+#divcontainer{
+  border-radius: 25px;
+
+}
+#jumbotronContainer{
+
+}
+#separador{
+  height: 2px;
+  background-color: #252D36;
+}
+.mouseover{
+  background-color: #C6C6C6;
 }
