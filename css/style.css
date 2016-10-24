@@ -1,0 +1,13 @@
+body{
+  background-color: #252D36;
+}
+#opt1{
+  padding-top: 10px;
+  border-bottom: 1px solid green;
+}
+#opt2{
+  padding-top: 15px;
+  padding-bottom: 30px;
+
+  height: 30px;
+}
